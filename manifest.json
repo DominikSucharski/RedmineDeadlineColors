@@ -1,0 +1,15 @@
+{
+    "name": "Redmine Deadline Colors",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": [
+                "https://redmine.*/projects/*/issues*"
+            ],
+            "js": [
+                "main.js"
+            ]
+        }
+    ]
+}
