@@ -2,12 +2,14 @@
     "name": "Redmine Deadline Colors",
     "version": "1.0.0",
     "manifest_version": 3,
+    "author": "Dominik Sucharski",
     "content_scripts": [
         {
             "matches": [
-                "https://redmine.*/projects/*/issues*"
+                "https://*.net/projects*issues*"
             ],
             "js": [
+                "vendor/jquery-3.6.1.min.js",
                 "main.js"
             ]
         }
