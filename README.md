@@ -9,4 +9,4 @@ Rozszerzenie do Google Chrome modyfikujące wygląd listy zagadnień w Redmine.
     2. Więcej narzędzi
     3. Rozszerzenia
     4. Włączyć "Tryb dewelopera"
-    5. Załaduj rozpakowane
+    5. Kliknąć "Załaduj rozpakowane"

@@ -9,9 +9,9 @@
                 "https://*.net/projects*issues*"
             ],
             "js": [
-                "vendor/jquery-3.6.1.min.js",
                 "main.js"
-            ]
+            ],
+            "run_at": "document_end"
         }
     ]
 }
